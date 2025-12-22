@@ -61,7 +61,8 @@ function App() {
               boxSizing: 'border-box',
               background: 'var(--bg-secondary)',
               color: 'var(--text-primary)',
-              border: '1px solid var(--border-color)'
+              border: '1px solid var(--border-color)',
+              fontFamily: 'inherit'
             }}
             spellCheck={false}
           />
@@ -83,7 +84,8 @@ function App() {
               boxSizing: 'border-box',
               background: 'var(--bg-secondary)',
               color: 'var(--text-primary)',
-              border: '1px solid var(--border-color)'
+              border: '1px solid var(--border-color)',
+              fontFamily:'inherit'
             }}
             spellCheck={false}
           />
